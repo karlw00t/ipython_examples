@@ -1,5 +1,12 @@
 *.py[cod]
 
+#virtualenv
+share
+include
+
+#vim
+*~
+
 # C extensions
 *.so
 
